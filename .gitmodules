@@ -6,4 +6,4 @@
 	url = https://github.com/lvgl/lvgl.git
 [submodule "components/esp32-camera"]
 	path = components/esp32-camera
-	url = https://github.com/espressif/esp32-camera.git
+	url = https://github.com/823984418/esp32-camera.git
